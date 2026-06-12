@@ -4,7 +4,7 @@
 ### Currently
 
 * 🌱 Learning and Building MERN stack projects
-*💡 Practicing DSA & problem solving
+* 💡 Practicing DSA & problem solving
 
 
 ### Tech
