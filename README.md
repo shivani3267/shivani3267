@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shivani 👋
+2nd - year MCA student at MNNIT Allahabad
 
-<!--
-**shivani3267/shivani3267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently
 
-Here are some ideas to get you started:
+* 🌱 Learning and Building MERN stack projects
+*💡 Practicing DSA & problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tech
+
+`HTML` `CSS` `C` `C++` `JavaScript` `React` `Node.js` `Express` `MongoDB` `Git` 
+
+### Connect
+
+* LinkedIn: https://www.linkedin.com/in/shivanikumari9
+
+"Keep learning. Keep building."
